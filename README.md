@@ -1,0 +1,1 @@
+See https://medium.com/groftware/how-to-publish-your-react-component-on-npm-9cf48d91944d for reference
